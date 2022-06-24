@@ -1,0 +1,12 @@
+---
+title: "assignment_rmd"
+author: "MBM"
+date: '2022-06-24'
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is an R Markdown file
